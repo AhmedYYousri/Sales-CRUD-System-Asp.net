@@ -1,0 +1,79 @@
+{
+  "version": 2,
+  "dgSpecHash": "aBmFx3faZwtZnF/rUXGdNsb5d6GPD263ietiqwrLVfu1riVm3ACsaD2Xwuf15fqXatK6DnKRVgmwZRCdrphttg==",
+  "success": false,
+  "projectFilePath": "e:\\Test\\SalesCRMApp\\SalesCRMApp\\SalesCRMApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Failed to download package 'Microsoft.EntityFrameworkCore.Relational.7.0.3' from 'https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore.relational/7.0.3/microsoft.entityframeworkcore.relational.7.0.3.nupkg'.\r\nThe download of 'https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore.relational/7.0.3/microsoft.entityframeworkcore.relational.7.0.3.nupkg' timed out because no data was received for 60000ms.\r\n  Exception of type 'System.TimeoutException' was thrown."
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Failed to download package 'Microsoft.CodeAnalysis.Scripting.Common.4.0.0' from 'https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.scripting.common/4.0.0/microsoft.codeanalysis.scripting.common.4.0.0.nupkg'.\r\nThe download of 'https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.scripting.common/4.0.0/microsoft.codeanalysis.scripting.common.4.0.0.nupkg' timed out because no data was received for 60000ms.\r\n  Exception of type 'System.TimeoutException' was thrown."
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Failed to download package 'Microsoft.AspNetCore.Identity.UI.6.0.14' from 'https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.identity.ui/6.0.14/microsoft.aspnetcore.identity.ui.6.0.14.nupkg'.\r\nThe download of 'https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.identity.ui/6.0.14/microsoft.aspnetcore.identity.ui.6.0.14.nupkg' timed out because no data was received for 60000ms.\r\n  Exception of type 'System.TimeoutException' was thrown."
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Failed to download package 'Microsoft.CodeAnalysis.CSharp.Workspaces.4.0.0' from 'https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.csharp.workspaces/4.0.0/microsoft.codeanalysis.csharp.workspaces.4.0.0.nupkg'.\r\nThe download of 'https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.csharp.workspaces/4.0.0/microsoft.codeanalysis.csharp.workspaces.4.0.0.nupkg' timed out because no data was received for 60000ms.\r\n  Exception of type 'System.TimeoutException' was thrown."
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Failed to download package 'Microsoft.VisualStudio.Web.CodeGenerators.Mvc.6.0.12' from 'https://api.nuget.org/v3-flatcontainer/microsoft.visualstudio.web.codegenerators.mvc/6.0.12/microsoft.visualstudio.web.codegenerators.mvc.6.0.12.nupkg'.\r\nThe download of 'https://api.nuget.org/v3-flatcontainer/microsoft.visualstudio.web.codegenerators.mvc/6.0.12/microsoft.visualstudio.web.codegenerators.mvc.6.0.12.nupkg' timed out because no data was received for 60000ms.\r\n  Exception of type 'System.TimeoutException' was thrown."
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Failed to download package 'Microsoft.CodeAnalysis.CSharp.Features.4.0.0' from 'https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.csharp.features/4.0.0/microsoft.codeanalysis.csharp.features.4.0.0.nupkg'.\r\nThe download of 'https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.csharp.features/4.0.0/microsoft.codeanalysis.csharp.features.4.0.0.nupkg' timed out because no data was received for 60000ms.\r\n  Exception of type 'System.TimeoutException' was thrown."
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Failed to download package 'Microsoft.EntityFrameworkCore.7.0.3' from 'https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.3/microsoft.entityframeworkcore.7.0.3.nupkg'.\r\nThe download of 'https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.3/microsoft.entityframeworkcore.7.0.3.nupkg' timed out because no data was received for 60000ms.\r\n  Exception of type 'System.TimeoutException' was thrown."
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Failed to download package 'NuGet.Packaging.6.3.1' from 'https://api.nuget.org/v3-flatcontainer/nuget.packaging/6.3.1/nuget.packaging.6.3.1.nupkg'.\r\nThe download of 'https://api.nuget.org/v3-flatcontainer/nuget.packaging/6.3.1/nuget.packaging.6.3.1.nupkg' timed out because no data was received for 60000ms.\r\n  Exception of type 'System.TimeoutException' was thrown."
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Failed to download package 'System.Text.Json.4.7.0' from 'https://api.nuget.org/v3-flatcontainer/system.text.json/4.7.0/system.text.json.4.7.0.nupkg'.\r\nThe download of 'https://api.nuget.org/v3-flatcontainer/system.text.json/4.7.0/system.text.json.4.7.0.nupkg' timed out because no data was received for 60000ms.\r\n  Exception of type 'System.TimeoutException' was thrown."
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Failed to download package 'Microsoft.CodeAnalysis.VisualBasic.Workspaces.4.0.0' from 'https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.visualbasic.workspaces/4.0.0/microsoft.codeanalysis.visualbasic.workspaces.4.0.0.nupkg'.\r\nThe HTTP request to 'GET https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.visualbasic.workspaces/4.0.0/microsoft.codeanalysis.visualbasic.workspaces.4.0.0.nupkg' has timed out after 100000ms."
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Failed to download package 'Microsoft.CodeAnalysis.VisualBasic.Features.4.0.0' from 'https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.visualbasic.features/4.0.0/microsoft.codeanalysis.visualbasic.features.4.0.0.nupkg'.\r\nThe download of 'https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.visualbasic.features/4.0.0/microsoft.codeanalysis.visualbasic.features.4.0.0.nupkg' timed out because no data was received for 60000ms.\r\n  Exception of type 'System.TimeoutException' was thrown."
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Failed to download package 'Microsoft.CodeAnalysis.Workspaces.Common.4.0.0' from 'https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.workspaces.common/4.0.0/microsoft.codeanalysis.workspaces.common.4.0.0.nupkg'.\r\nThe download of 'https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.workspaces.common/4.0.0/microsoft.codeanalysis.workspaces.common.4.0.0.nupkg' timed out because no data was received for 60000ms.\r\n  Exception of type 'System.TimeoutException' was thrown."
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Failed to download package 'Microsoft.EntityFrameworkCore.Relational.6.0.14' from 'https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore.relational/6.0.14/microsoft.entityframeworkcore.relational.6.0.14.nupkg'.\r\nThe download of 'https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore.relational/6.0.14/microsoft.entityframeworkcore.relational.6.0.14.nupkg' timed out because no data was received for 60000ms.\r\n  Exception of type 'System.TimeoutException' was thrown."
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Failed to download package 'Microsoft.AspNetCore.Cryptography.Internal.6.0.14' from 'https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.cryptography.internal/6.0.14/microsoft.aspnetcore.cryptography.internal.6.0.14.nupkg'.\r\nThe download of 'https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.cryptography.internal/6.0.14/microsoft.aspnetcore.cryptography.internal.6.0.14.nupkg' timed out because no data was received for 60000ms.\r\n  Exception of type 'System.TimeoutException' was thrown."
+    }
+  ]
+}
